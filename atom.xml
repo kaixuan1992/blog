@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://kaixuan1992.github.io/blog/"/>
-  <updated>2019-10-10T15:06:52.314Z</updated>
+  <updated>2019-10-10T15:38:26.988Z</updated>
   <id>http://kaixuan1992.github.io/blog/</id>
   
   <author>
@@ -21,17 +21,17 @@
     <link href="http://kaixuan1992.github.io/blog/2019/10/10/%E4%BD%BF%E7%94%A8%E7%BB%88%E7%AB%AF%E6%89%93%E5%BC%80vscode/"/>
     <id>http://kaixuan1992.github.io/blog/2019/10/10/使用终端打开vscode/</id>
     <published>2019-10-10T14:52:18.000Z</published>
-    <updated>2019-10-10T15:06:52.314Z</updated>
+    <updated>2019-10-10T15:38:26.988Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="具体操作"><a href="#具体操作" class="headerlink" title="具体操作:"></a>具体操作:</h1><p>首先打开vscode软件。</p><p>同时按住shift + command + P打开命令面板。</p><p>找到Install “code” command in PATH，并执行。</p><p>那么就可以在终端执行命令了。</p><p>比如我要打开Users/hexo 项目。</p><p>那么就可以在终端执行：</p><p>指定目录 cd Users/hexo 后使用 code . 便可在</p><p>vscode中打开 该目录下的文件.</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="具体操作"><a href="#具体操作" class="headerlink" title="具体操作"></a>具体操作</h1><p>首先打开vscode软件。</p><p>同时按住shift + command + P打开命令面板。</p><p>找到Install “code” command in PATH，并执行。</p><p>那么就可以在终端执行命令了。</p><p>比如我要打开Users/hexo 项目。</p><p>那么就可以在终端执行：</p><p>指定目录 cd Users/hexo 后使用 code . 便可在</p><p>vscode中打开 该目录下的文件.</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;具体操作&quot;&gt;&lt;a href=&quot;#具体操作&quot; class=&quot;headerlink&quot; title=&quot;具体操作:&quot;&gt;&lt;/a&gt;具体操作:&lt;/h1&gt;&lt;p&gt;首先打开vscode软件。&lt;/p&gt;
+        &lt;h1 id=&quot;具体操作&quot;&gt;&lt;a href=&quot;#具体操作&quot; class=&quot;headerlink&quot; title=&quot;具体操作&quot;&gt;&lt;/a&gt;具体操作&lt;/h1&gt;&lt;p&gt;首先打开vscode软件。&lt;/p&gt;
 &lt;p&gt;同时按住shift + command + P打开命令面板。&lt;/p&gt;
-&lt;p&gt;找
+&lt;p&gt;找到I
       
     
     </summary>
