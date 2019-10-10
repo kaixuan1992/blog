@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[hexo使用手册]]></title>
+    <url>%2Fblog%2F2019%2F10%2F10%2Fhexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%2F</url>
+    <content type="text"><![CDATA[常用命名hexo new “newPage” 新建文章 简写：hexo nhexo new page “newPage” hexo generate 生成静态页面至public目录hexo server 开启预览访问端口（默认端口4000，’ctrl + c’关闭server）简写：hexo shexo clean 清除缓存hexo deploy 将.deploy目录部署到GitHubhexo help 查看帮助hexo version 查看Hexo的版本 书写一篇文章流程（1）发表的文章在本地预览无误后，在终端命令窗口执行以下命令： 1hexo clean &amp;&amp; hexo g &amp;&amp; hexo d （2）将其发布在Github上在其浏览器，便访问自己的博客链接，可以看到最新发布的文章]]></content>
+      <tags>
+        <tag>编辑工具</tag>
+        <tag>vscode</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[使用终端打开vscode]]></title>
     <url>%2Fblog%2F2019%2F10%2F10%2F%E4%BD%BF%E7%94%A8%E7%BB%88%E7%AB%AF%E6%89%93%E5%BC%80vscode%2F</url>
     <content type="text"><![CDATA[具体操作首先打开vscode软件。 同时按住shift + command + P打开命令面板。 找到Install “code” command in PATH，并执行。 那么就可以在终端执行命令了。 比如我要打开Users/hexo 项目。 那么就可以在终端执行： 指定目录 cd Users/hexo 后使用 code . 便可在 vscode中打开 该目录下的文件.]]></content>
+      <tags>
+        <tag>编辑工具</tag>
+        <tag>vscode</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
